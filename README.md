@@ -67,8 +67,11 @@ arguments received.
 ```
 #### Visualization:
 main sorting algorithm:
-![visual](./_vis/gif/vis00_1.gif)<br/>
+
+![visual](./_vis/gif/vis00_1.gif)
+
 compare with bubble sort:
+
 ![visual](./_vis/gif/vis01.gif)
 
 
